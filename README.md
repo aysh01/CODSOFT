@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oz8xD60ymhwF35Xb2/giphy.gif" width="100"/><br>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=608,fit=crop,q=95/Aq20eV79zLfpXV6b/logo-png-mnl7npnlXjHPl9KV.png" width="100"/><br>
     <a href="https://ayssh.netlify.app">
       <img src="https://img.shields.io/badge/Website-blue?logo=dependabot" alt="Website"/>
   </a><br>
